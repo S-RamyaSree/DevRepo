@@ -1,1 +1,2 @@
 First raw code to rawcode1.txt
+Added new line to see the difference between branches in files
